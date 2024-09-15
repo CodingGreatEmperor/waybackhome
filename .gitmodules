@@ -1,0 +1,4 @@
+[submodule "sn3_xiaochun_delta"]
+	path = models/sn3_xiaochun_delta
+	url = https://huggingface.co/bachtieuthuan/sn3_xiaochun_delta
+	branch = main
